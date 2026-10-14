@@ -29,13 +29,19 @@ Each sample was listened to and compared directly. No human reference audio was 
 
 | Criterion | Audio A | Audio B |
 |---|---|---|
-| Audio Quality | Not yet scored | Not yet scored |
+| Audio Quality | Good | Good |
 | Naturalness | Good | Good |
 | Pronunciation | Clear and correct | Clear and correct |
 | Contextual Appropriateness | Appropriate | Appropriate |
 
+## Audio Samples
+
+- [Listen to Audio A](voice_a.mp3)
+- [Listen to Audio B](voice_b.mp3)
+
 ## Observations
 
+- Both samples had clear audio with no noticeable quality issues.
 - Both samples sounded good and natural.
 - Pronunciation was clear and correct in both samples.
 - Both samples were appropriate for a professional meeting context.
