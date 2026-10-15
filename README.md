@@ -29,8 +29,8 @@ Each sample was listened to and compared directly. No human reference audio was 
 
 ### Audio Samples
 
-- [Listen to Audio A](voice_a.mp3)
-- [Listen to Audio B](voice_b.mp3)
+[Listen to Voice A](samples/voice_a.mp3)
+[Listen to Voice B](samples/voice_b.mp3)
 
 ### Evaluation Results
 
@@ -65,8 +65,8 @@ Both audio samples were evaluated using the same criteria: audio quality, natura
 
 ### Audio Samples
 
-- [Listen to Audio C](voice_c.mp3)
-- [Listen to Audio D](voice_d.mp3)
+[Listen to Voice C](samples/voice_c.mp3)
+[Listen to Voice D](samples/voice_d.mp3)
 
 ### Evaluation Results
 
