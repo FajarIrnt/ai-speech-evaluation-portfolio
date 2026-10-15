@@ -105,7 +105,7 @@ Audio D was preferred because it sounded clearer and had no noticeable noise. Bo
 ## Tools
 
 - TTSMaker
-- Audio Playback and Listening
+- Audacity
 - GitHub
 
 ## Project Scope
